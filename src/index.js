@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/team-project-7">
+        <BrowserRouter basename="/react_node_fs71_etopritika">
           <App />
         </BrowserRouter>
       </PersistGate>
