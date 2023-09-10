@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs71_etopritika/static/css/main.332608c4.css",
-    "main.js": "/react_node_fs71_etopritika/static/js/main.62871aac.js",
+    "main.js": "/react_node_fs71_etopritika/static/js/main.cff62332.js",
     "static/css/796.c4988531.chunk.css": "/react_node_fs71_etopritika/static/css/796.c4988531.chunk.css",
     "static/js/796.77f37335.chunk.js": "/react_node_fs71_etopritika/static/js/796.77f37335.chunk.js",
     "static/css/786.4b5d0e82.chunk.css": "/react_node_fs71_etopritika/static/css/786.4b5d0e82.chunk.css",
@@ -46,7 +46,7 @@
     "static/media/icons.svg": "/react_node_fs71_etopritika/static/media/icons.6365382479516b998a50567efd112470.svg",
     "index.html": "/react_node_fs71_etopritika/index.html",
     "main.332608c4.css.map": "/react_node_fs71_etopritika/static/css/main.332608c4.css.map",
-    "main.62871aac.js.map": "/react_node_fs71_etopritika/static/js/main.62871aac.js.map",
+    "main.cff62332.js.map": "/react_node_fs71_etopritika/static/js/main.cff62332.js.map",
     "796.c4988531.chunk.css.map": "/react_node_fs71_etopritika/static/css/796.c4988531.chunk.css.map",
     "796.77f37335.chunk.js.map": "/react_node_fs71_etopritika/static/js/796.77f37335.chunk.js.map",
     "786.4b5d0e82.chunk.css.map": "/react_node_fs71_etopritika/static/css/786.4b5d0e82.chunk.css.map",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.332608c4.css",
-    "static/js/main.62871aac.js"
+    "static/js/main.cff62332.js"
   ]
 }
